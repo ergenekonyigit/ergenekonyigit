@@ -4,8 +4,8 @@
    :shortname "ergenekonyigit"
    :from      "Istanbul"
    :company   "Trendyol"
-   :social    {:blog     "https://ergenekonyigit.github.io"
-               :github   "https://github.com/ergenekonyigit"
-               :twitter  "https://twitter.com/ergenekonyigit"
-               :linkedin "https://linkedin.com/in/ergenekonyigit"}})
+   :social    {:blog     "ergenekonyigit.github.io"
+               :github   "github.com/ergenekonyigit"
+               :twitter  "twitter.com/ergenekonyigit"
+               :linkedin "linkedin.com/in/ergenekonyigit"}})
 ```
