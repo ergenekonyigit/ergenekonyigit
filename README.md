@@ -2,7 +2,7 @@
 (def about-me
   {:name      "Ergenekon Yiğit"
    :shortname "ergenekonyigit"
-   :from      "Istanbul"
+   :from      "Turkey"
    :company   "Trendyol"
    :social    {:blog     "ergenekonyigit.github.io"
                :github   "github.com/ergenekonyigit"
